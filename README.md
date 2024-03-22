@@ -44,10 +44,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Mitigation:
     
-- Adaptation
+- Adaptation:
    
 
-- Energy policy 
+- Energy policy: 
     
 
 
