@@ -73,7 +73,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+- Decarbonising Azerbaijan’s Transport System Charting the Way Forward, OECD/ITF 2020; https://www.itf-oecd.org/sites/default/files/docs/decarbonising-azerbaijan-transport-system.pdf
+- Policy Scenarios for Decarbonising Azerbaijan’s Transport System, OECD/ITF 2020, https://www.itf-oecd.org/sites/default/files/docs/policy-scenarios-decarbonising-transport-azerbaijan.pdf
+
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
