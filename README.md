@@ -43,6 +43,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
+	- Updated Nationally Determined Contribution of the Republic of Azerbaijan, 2023: https://unfccc.int/documents/632446
+	- 
     
 - Adaptation:
    
