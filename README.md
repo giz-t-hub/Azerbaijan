@@ -29,13 +29,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Transport
 
 - General
-
+	- AZERBAIJAN - 2026: 2022-2026 Social and Economic Development Strategy: https://e-qanun.az/framework/50013, EN:  https://brussels.mfa.gov.az/files/shares/2022%202026%20Social%20and%20Economic%20Development%20Strategy.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
  
 - Roads:
+	- Ongoing: Drafting of National Plan on Electromobility https://minenergy.gov.az/en/xeberler-arxivi/energetika-nazirliyinde-elektromobillik-uzre-milli-planin-hazirlanmasi-muzakire-edilib
     
 - Inland waterways, ports:
 - Aviation:
@@ -44,7 +45,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Mitigation:
 	- Updated Nationally Determined Contribution of the Republic of Azerbaijan, 2023: https://unfccc.int/documents/632446
-	- 
+	- Fourth National Communication to the United Nations Framework Convention on Climate Change, 2021: https://unfccc.int/documents/299472
+ -  
     
 - Adaptation:
    
@@ -78,7 +80,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Decarbonising Azerbaijan’s Transport System Charting the Way Forward, OECD/ITF 2020; https://www.itf-oecd.org/sites/default/files/docs/decarbonising-azerbaijan-transport-system.pdf
 - Policy Scenarios for Decarbonising Azerbaijan’s Transport System, OECD/ITF 2020, https://www.itf-oecd.org/sites/default/files/docs/policy-scenarios-decarbonising-transport-azerbaijan.pdf
-
+- Overview of the Azerbaijan Transport System & Transport Sector Development Strategy, ADB 2006: https://www.adb.org/sites/default/files/project-documents/39030-aze-tacr_0.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
