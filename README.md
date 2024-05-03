@@ -30,6 +30,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - General
 	- AZERBAIJAN - 2026: 2022-2026 Social and Economic Development Strategy: https://e-qanun.az/framework/50013, EN:  https://brussels.mfa.gov.az/files/shares/2022%202026%20Social%20and%20Economic%20Development%20Strategy.pdf
+	- Azerbaijan 2030: National Priorities for Socio-Economic Development, 2021: https://president.az/en/articles/view/50474
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -37,6 +38,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  
 - Roads:
 	- Ongoing: Drafting of National Plan on Electromobility https://minenergy.gov.az/en/xeberler-arxivi/energetika-nazirliyinde-elektromobillik-uzre-milli-planin-hazirlanmasi-muzakire-edilib
+	- State Program of Azerbaijan Republic on Road Safety for 2019-2023: https://www.roadsafetyngos.org/wp-content/uploads/2019/01/state-program-on-road-safety-2019-2023.pdf
     
 - Inland waterways, ports:
 - Aviation:
@@ -46,7 +48,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Mitigation:
 	- Updated Nationally Determined Contribution of the Republic of Azerbaijan, 2023: https://unfccc.int/documents/632446
 	- Fourth National Communication to the United Nations Framework Convention on Climate Change, 2021: https://unfccc.int/documents/299472
- -  
+	- Second Biennial Update Report of the Republic of Azerbaijan to UN Framework Convention on Climate Change: https://unfccc.int/documents/182955
     
 - Adaptation:
    
