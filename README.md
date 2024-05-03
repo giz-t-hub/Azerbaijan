@@ -89,7 +89,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
--
+- Adaptation: https://www.adaptation-undp.org/projects/naps-gcf-azerbaijan#:~:text=The%20main%20objective%20of%20the,the%20national%20and%20local%20levels.
 
 ### Data <a name="data"></a>
 
