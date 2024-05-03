@@ -75,8 +75,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- Ganja
-  - Green City Action Plan, EBRD 2024 *(Gəncə Yaşıl Şəhər Fəaliyyət Planı)*: https://ebrdgreencities.com/assets/Uploads/PDF/Ganja-Green-City-Action-Plan-LL.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/Ganja-Green-City-Action-Plan-EN.pdf
+- Baku:
+	- Baku City Master Plan *(Bakı Şəhərinin Baş Planı 2040 - İzahat yazısı)*, 2023: https://city4people.az/wp-content/uploads/2024/01/Baki-2040-izahat-yazisi_1704634062.pdf
+   
+- Ganja:
+	- Green City Action Plan, EBRD 2024 *(Gəncə Yaşıl Şəhər Fəaliyyət Planı)*: https://ebrdgreencities.com/assets/Uploads/PDF/Ganja-Green-City-Action-Plan-LL.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/Ganja-Green-City-Action-Plan-EN.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
